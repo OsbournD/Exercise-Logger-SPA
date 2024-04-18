@@ -14,26 +14,25 @@ Resetting Filters: Users can reset filters to view all logged exercises.
 Usage: Helping users track their gym progression to reflect on and to help target their goals.
 
 Logging Exercises:
-
 Fill in the input fields for exercise name, date, repetitions, and weight.
 Click the "Submit" button to log the exercise.
+
 Viewing Stored Data:
-
 All logged exercises are displayed in a list format.
+
 Deleting Exercises:
-
 Click the "Delete" button next to the exercise to delete it.
+
 Clearing All Data:
-
 Click the "Delete All Exercises" button to delete all logged exercises.
+
 Filtering by Date:
-
 Select a date from the date picker and click the "Filter" button to view exercises logged on that date.
+
 Searching by Name:
-
 Enter a search term in the search bar and click the "Search" button to filter exercises by name.
-Resetting Filters:
 
+Resetting Filters:
 Click the "Reset Filters" button to clear the date filter and search bar and view all logged exercises.
 
 Technologies Used: 
