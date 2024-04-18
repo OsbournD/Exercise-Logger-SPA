@@ -1,0 +1,57 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    text-align: center; 
+}
+
+#banner {
+    background-color: lightblue;
+    color: darkred;
+    padding: 10px 0;
+    font-weight: bold;
+}
+
+#inputForm {
+    border: 3px solid black;
+    padding: 20px;
+    margin-bottom: 20px;
+    display: inline-block; 
+    text-align: left; 
+    background-color: grey;
+}
+
+.user-data {
+    border: 3px solid black;
+    padding: 2vw;
+    max-height: 70vh;
+    overflow-y: auto;
+    width: 60%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    background-color: grey;
+}
+
+.delete-btn {
+    margin-left: 10px;
+    cursor: pointer;
+    color: red;
+}
+
+#deleteAllBtn {
+    margin-top: 20px; 
+    cursor: pointer;
+}
+
+#filterByDate, #searchBarContainer {
+    border: 3px solid black;
+    padding: 2vw;
+    max-height: 70vh;
+    width: 60%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    background-color: lightgray;
+}
+
+#searchBtn, #resetFiltersBtn {
+    margin-left: 10px;
+}
