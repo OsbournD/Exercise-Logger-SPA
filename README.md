@@ -13,7 +13,7 @@ Searching by Name: Users can search for exercises by name.
 Resetting Filters: Users can reset filters to view all logged exercises.
 Usage: Helping users track their gym progression to reflect on and to help target their goals.
 
-ogging Exercises:
+Logging Exercises:
 
 Fill in the input fields for exercise name, date, repetitions, and weight.
 Click the "Submit" button to log the exercise.
