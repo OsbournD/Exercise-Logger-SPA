@@ -11,8 +11,9 @@ Clearing All Data: Users have the option to delete all logged exercises.
 Filtering by Date: Users can filter exercises by date.
 Searching by Name: Users can search for exercises by name.
 Resetting Filters: Users can reset filters to view all logged exercises.
-Usage: 
-Logging Exercises:
+Usage: Helping users track their gym progression to reflect on and to help target their goals.
+
+ogging Exercises:
 
 Fill in the input fields for exercise name, date, repetitions, and weight.
 Click the "Submit" button to log the exercise.
@@ -34,8 +35,8 @@ Enter a search term in the search bar and click the "Search" button to filter ex
 Resetting Filters:
 
 Click the "Reset Filters" button to clear the date filter and search bar and view all logged exercises.
+
 Technologies Used: 
 HTML
 CSS
-JS
 JavaScript
