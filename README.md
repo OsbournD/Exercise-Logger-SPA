@@ -1,5 +1,10 @@
 # Exercise-Logger-SPA
 
+!! INSTALL INSTRUCTIONS !!
+1. Download the zip
+2. Unzip the zipped file
+3. Run the HTML file
+
 Overview: 
 This is a single-page application designed to help users log their exercise routines. Users can input details such as exercise name, date, repetitions, and weight, and the application will store and display this data. Users can also delete individual exercises, clear all logged data, filter exercises by date, search for exercises by name, and reset filters.
 
